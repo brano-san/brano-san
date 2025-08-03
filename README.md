@@ -1,28 +1,16 @@
-<h1 align="center">Hi there, my name <a href="https://github.com/brano-san" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student</h3>
-<br>
-🌱 I’m currently learning C++, Qt, git, linux, docker <br>
-📫 How to reach me: telegram @brano-san
-<br /><br />
+# 💫 About Me:
+🌱 I’m currently learning C++, Qt, git, linux, docker<br>📫 How to reach me: telegram @brano-san
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brano-san&theme=onedark&title=Commits,Experience,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+# 💻 Tech Stack:
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=brano-san&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brano-san&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brano-san&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brano-san&repo=Calculator)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brano-san&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!--
-**brano-san/brano-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
